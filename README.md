@@ -1,5 +1,5 @@
-# <p align="center">ECE-375
-Computer Organization and Assembly Language Programming<br />
+#ECE-375
+<p align="center">Computer Organization and Assembly Language Programming<br />
 
 Oregon State University<br />
 
