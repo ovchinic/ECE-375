@@ -1,9 +1,9 @@
-# ECE-375
+# <p align="center">ECE-375
 Computer Organization and Assembly Language Programming<br />
 
 Oregon State University<br />
 
-Winter 2021<br />
+Winter 2021</p><br />
 
 All Labs were completed using an AVR TekBots board provided by the university with an 8-bit Atmel Microcontroller (ATmega128)<br />
 
